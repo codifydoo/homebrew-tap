@@ -1,15 +1,15 @@
-# Davscro Tap
+# Codify Tap
 
 ## How do I install these formulae?
 
-`brew install davscro/tap/<formula>`
+`brew install codifydoo/tap/<formula>`
 
-Or `brew tap davscro/tap` and then `brew install <formula>`.
+Or `brew tap codifydoo/tap` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "davscro/tap"
+tap "codifydoo/tap"
 brew "<formula>"
 ```
 
