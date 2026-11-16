@@ -1,7 +1,7 @@
 class Graylogctl < Formula
   desc "Production-focused Graylog v6 CLI"
-  homepage "https://github.com/davscro/graylog-cli"
-  url "https://github.com/davscro/graylog-cli/archive/refs/tags/v0.1.0.tar.gz"
+  homepage "https://github.com/codifydoo/graylog-cli"
+  url "https://github.com/codifydoo/graylog-cli/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "aa490860622768117751a09c7dee7d02b34624a33ccfa447db4e4ab498e8d26c"
   license "MIT"
 
